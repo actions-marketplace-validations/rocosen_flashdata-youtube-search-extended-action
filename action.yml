@@ -1,6 +1,6 @@
-name: YouTube Extended Search - FlashData
-description: Export a larger video candidate dataset for a research pipeline
-  using the separate extended-search API.
+name: YouTube Extended Search
+description: Search YouTube with a result limit of up to 700 and optional
+  filters. Export matching records as JSON and JSONL.
 author: FlashData
 branding:
   icon: search
